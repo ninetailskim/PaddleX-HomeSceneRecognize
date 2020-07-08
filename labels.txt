@@ -1,0 +1,6 @@
+bathroom
+bedroom
+corridor
+diningroom
+kitchen
+livingroom
